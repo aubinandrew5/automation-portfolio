@@ -5,7 +5,9 @@ Instructions:
 1. Run C_Drive_Cleanup.ps1 as an administrator.
 2. Output will be stored in C:\ZZ.
 
-_Note:  Locations can be added/removed if necessary._
+_Notes:
+Locations can be added/removed if necessary.
+Threshhold is currently set to 11% free space.  This can be changed to a different value._
 
 
 **C_Drive_Expansion.ps1**
