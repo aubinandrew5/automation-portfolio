@@ -1,3 +1,13 @@
+**C_Drive_Cleanup.ps1**
+Powershell script to scan all virtual desktops and clean up temp files.
+
+Instructions:
+1. Run C_Drive_Cleanup.ps1 as an administrator.
+2. Output will be stored in C:\ZZ.
+
+_Note:  Locations can be added/removed if necessary._
+
+
 **C_Drive_Expansion.ps1**
 PowerShell script to expand C: drive on desktops in a virtual environment.
 
