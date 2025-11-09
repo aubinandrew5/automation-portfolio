@@ -9,7 +9,7 @@ _Notes:
 Locations can be added/removed if necessary.
 Threshhold is currently set to 11% free space.  This can be changed to a different value._
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **C_Drive_Expansion.ps1**
 PowerShell script to expand C: drive on desktops in a virtual environment.
 
