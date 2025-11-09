@@ -1,5 +1,5 @@
 **C_Drive_Expansion.ps1**
-PowerShell script to expand C: drive on desktops in a remote environment.
+PowerShell script to expand C: drive on desktops in a virtual environment.
 
 Instructions:
 1. Place C_Drive_Expansion.ps1 file to a local location on your desktop.  (Example:  create a folder in the root of C: and name it ZZ and place the file in there.)
